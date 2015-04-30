@@ -1,0 +1,2 @@
+Progress p=System.Diagnostics.Progress.getCurrentProgress();
+p.Start("http://www.hotmail.com");
